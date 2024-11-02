@@ -11,7 +11,7 @@
         'security/ir.model.access.csv',
         'view/channel_video_view.xml'
     ],
-    # 'external_dependencies': {'python': ['opencv-python']},
+    'external_dependencies': {'python': ['opencv-python']},
     'images': ['static/description/banner.png'],
     'installable': True,
     'auto_install': False
