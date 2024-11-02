@@ -1,6 +1,6 @@
 {
     'name': 'Video Thumbnail Generator',
-    'version': '16.0.1.0.0',
+    'version': '15.0.1.0.0',
     'summary': 'Video Thumbnail Generator',
     'description': 'Video Thumbnail Generator',
     'category': 'Extra Tools',
