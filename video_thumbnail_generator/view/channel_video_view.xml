@@ -38,7 +38,7 @@
             <field name="name">channel_video.tree</field>
             <field name="model">channel.video</field>
             <field name="arch" type="xml">
-                <tree string="ModelTitle">
+                <tree string="Video">
                     <field name="name"/>
                     <field name="create_date"/>
                     <field name="video_file_size"/>
